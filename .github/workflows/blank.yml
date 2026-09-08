@@ -1,4 +1,4 @@
-name: Save Webcam Image
+name: Save Webcam Image MonteCaio
 
 on:
   # Controllo ogni 5 minuti.
